@@ -10,5 +10,5 @@
 
 ### Sígueme en:
 
-<a href="https://linkedin.com/in/crisvacacela"><img src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" width="58" height="56"/></a>
+<a href="https://linkedin.com/in/crisvacacela"><img src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" width="35" height="35"/></a>
 
